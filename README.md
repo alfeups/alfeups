@@ -3,8 +3,11 @@
 
 
 :black_circle: I am currently graduating in Information Systems. :laptop:
+
 :black_circle: Constantly taking bootcamps challenges in order to improve my skills in new technologies. :keyboard: :computer_mouse:
+
 :black_circle: Never tired of learning, that's what make me keeping going foward. :man_student:
+
 :black_circle: Love catching up with the tech trends. :chart_with_upwards_trend:
   
   
