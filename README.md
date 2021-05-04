@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, this is Alfeu Pereira.:grin:
+  I am cutting my teeth as a coder. Feeling fascinated how IT can bring about a huge impact on people's life, so I decided be part of this too.
 
-<!--
-**alfeups/alfeups** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+    :black_circle: I am currently graduating in Information Systems. :laptop:
+    :black_circle: Constantly taking bootcamps challenges in order to improve my skills in new technologies. :keyboard: :computer_mouse:
+    :black_circle: Never tired of learning, that's what make me keeping going foward. :man_student:
+    :black_circle: Love catching up with the tech trends. :chart_with_upwards_trend:
+  
+  
+  ![alfeupereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfeupereira&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+:bulb: *"The quiter you become, the more you are able to hear".*
+
+
+Do you have any piece of advice, any question or wish to help me? Please do not hesitate, keep in touch by :arrow_lower_left::arrow_lower_left:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfeu-silva-701ab4200//)](https://www.linkedin.com/in/alfeu-silva-701ab4200/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alfeupereira)](https://github.com/alfeupereira)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/alfeupereira/alfeups)
