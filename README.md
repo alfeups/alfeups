@@ -2,7 +2,7 @@
   I am cutting my teeth as a coder. Feeling fascinated how IT can bring about a huge impact on people's life, so I decided be part of this too.
 
 
-:black_circle: I am currently graduating in Information Systems. :desktop:
+:black_circle: I am currently graduating in Information Systems. :computer:
 
 :black_circle: Constantly taking bootcamps challenges in order to improve my skills in new technologies. :keyboard: :computer_mouse:
 
