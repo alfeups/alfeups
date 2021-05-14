@@ -14,7 +14,6 @@
   ![alfeupereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfeups&show_icons=true&theme=tokyonight)
 
 
-:bulb: *"The quiter you become, the more you are able to hear".*
 
 
 Do you have any piece of advice, any question or would like to help?
