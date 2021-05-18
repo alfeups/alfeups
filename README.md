@@ -1,5 +1,5 @@
 # Hi there, this is Alfeu Pereira.:grin:
-  I am cutting my teeth as a coder. Feeling fascinated how IT can bring about a huge impact on people's life, so I decided be part of this too.
+  I am cutting my teeth as a coder. Feeling fascinated how IT can bring about a huge impact on people's life.
 
 
 :black_circle: I am currently graduating in Information Systems. :computer:
