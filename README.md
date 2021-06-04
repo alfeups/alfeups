@@ -1,4 +1,4 @@
-# Hi there, this is Alfeu Pereira.:grin: <img src="https://media.giphy.com/media/xUOwG5aFxxcLTVCaeQ/giphy.gif" height="130" width="130">
+<img src="https://media.giphy.com/media/xUOwG5aFxxcLTVCaeQ/giphy.gif" height="130" width="130"> # Hi there, this is Alfeu Pereira.:grin: 
  I am cutting my teeth as a coder. Feeling fascinated how IT can bring about a huge impact on people's life.
 
 :black_circle: I am currently graduating in Information Systems. :computer:
