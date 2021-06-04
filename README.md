@@ -10,9 +10,7 @@
 
 :black_circle: Love catching up with the tech trends. :chart_with_upwards_trend:
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfeups)](https://github.com/alfeups/github-readme-stats)
-
-  
+    
   ![alfeupereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfeups&show_icons=true&theme=tokyonight)
 
 
