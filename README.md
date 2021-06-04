@@ -1,7 +1,7 @@
 # Hi there, this is Alfeu Pereira.:grin:
   I am cutting my teeth as a coder. Feeling fascinated how IT can bring about a huge impact on people's life.
 
-<img src="https://media.giphy.com/media/xUOwG5aFxxcLTVCaeQ/giphy.gif">
+<img src="https://media.giphy.com/media/xUOwG5aFxxcLTVCaeQ/giphy.gif" height="100" width="100">
 
 :black_circle: I am currently graduating in Information Systems. :computer:
 
