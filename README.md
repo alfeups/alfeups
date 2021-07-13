@@ -1,15 +1,8 @@
 # Hi there, this is Alfeu Pereira.:grin:
 
  I am cutting my teeth as a coder. Feeling fascinated how IT can bring about a huge impact on people's life.
-
-:black_circle: I am currently graduating in Information Systems. :computer:
-
-:black_circle: Constantly taking bootcamps challenges in order to improve my skills in new technologies. :keyboard: :computer_mouse:
-
-:black_circle: Never tired of learning, that's what make me keeping going foward. :man_student:
-
-:black_circle: Love catching up with the tech trends. :chart_with_upwards_trend:
-  
+ 
+ Hail, Al-Khwarizmi. For each problem, there's an algorithm. 😄
     
   ![alfeupereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfeups&show_icons=true&theme=tokyonight)
 
