@@ -4,8 +4,7 @@
  
  Hail, Al-Khwarizmi. For each problem, there's an algorithm. 😄
     
-  ![alfeupereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfeups&show_icons=true&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfeups&layout=compact)](https://github.com/alfeups/github-readme-stats)
 
 
 
