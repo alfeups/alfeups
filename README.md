@@ -3,8 +3,9 @@
  I am cutting my teeth as a coder. Feeling fascinated how IT can bring about a huge impact on people's life.
  
  Hail, Al-Khwarizmi. For each problem, there's an algorithm. 😄
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfeups&layout=compact)](https://github.com/alfeups/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfeups&show_icons=true&theme=prussian)
+
 
 
 
