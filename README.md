@@ -6,7 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfeups&show_icons=true&theme=prussian)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alfeups)](https://github.com/alfeups/github-readme-stats)
 
 
 
