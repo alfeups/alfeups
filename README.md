@@ -1,10 +1,6 @@
 # Hi there, this is Alfeu Pereira.:grin:
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfeups&show_icons=true&theme=prussian)
-
-
-
 
 
 Do you have any piece of advice, any question or would like to help?
