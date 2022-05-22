@@ -22,7 +22,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/alfeups/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="alfeups" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,8 +36,8 @@
 </a>
       <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noneferrer">
   <img 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="java" width="40"
-      height="40" />
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="java" width="35"
+      height="35" />
 </a>       
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img
@@ -46,7 +46,7 @@
 </a>
     <img 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
-     alt="angular" width="40" height="40" />
+     alt="angular" width="35" height="35" />
 </a>              
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
