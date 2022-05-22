@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, this is Alfeu Pereira.:grin:</h1>
 
 <h3 align="center">Currently studying:</h3>
-<h3 align="center">Big Data & Analytical Intelligence. - Final Year</h3>
-<h3 align="center">Software Engineering. - Second Year. </h3>
+<h3 align="center">Big Data & Analytical Intelligence - Final Year</h3>
+<h3 align="center">Software Engineering - Second Year. </h3>
 
 <br>
 
@@ -16,18 +16,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/alfeups/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+  <a href="https://www.linkedin.com/in/alfeups/" target="blank">
+    <img align="center" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="alfeups" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p    src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> 
+<p
 </a> 
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+  </a>
+  <img 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  alt="java" width="40"
       height="40" />
 </a>
       <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noneferrer">
@@ -36,9 +37,8 @@
       height="35" />
 </a>       
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+           alt="mysql" width="45" height="45" /> 
 </a>
     <img 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
