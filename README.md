@@ -6,7 +6,7 @@
 
 <br>
 
-- :notebook: Currently focusing on Web Development approaching Java, Spring boot and Angular.
+- :notebook: Currently focusing on Web Development - Java, Spring boot and Angular.
 
 - :incoming_envelope: How to reach me **alfeupsjrs@gmail.com**
 
