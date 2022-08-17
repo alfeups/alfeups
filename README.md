@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, this is Alfeu Pereira.:grin:</h1>
 
-<h3 align="center">Currently studying:</h3>
-<h3 align="center">Big Data & Analytical Intelligence - Final Year</h3>
-<h3 align="center">Software Engineering - Second Year. </h3>
-
 <br>
 
 - :notebook: Currently focusing on Web Development - Java, Spring boot and Angular.
