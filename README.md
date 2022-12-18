@@ -60,7 +60,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/alfeupereira" target="blank">
+  <a href="www.linkedin.com/in/alfeups" target="blank">
     <img align="center" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="alfeups" height="30" width="40" /></a>
