@@ -6,7 +6,7 @@
 
 - :incoming_envelope: How to reach me **alfeupsjrs@gmail.com**
 
-- <a href="https://alfeups.github.io/alfeupscv/" target="blank">Alfeu CV</a>
+- <a href="https://alfeups.github.io/alfeupscv/"  target="_blank">Alfeu CV</a>
 
 
 <br>
