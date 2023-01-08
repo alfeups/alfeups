@@ -5,8 +5,8 @@
 - :notebook: Currently focusing on Web Development - Java, Spring boot and Angular.
 
 - :incoming_envelope: How to reach me **alfeupsjrs@gmail.com**
-- 📄   https://alfeups.github.io/alfeupscv/
 
+- <a href="https://alfeups.github.io/alfeupscv/" target="blank">Alfeu CV</a>
 
 
 <br>
