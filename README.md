@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, this is Alfeu Pereira.:grin:</h1>
+<h1 align="center">Hi there, this is Alfeu Pereira.</h1>
 
 <br>
 
