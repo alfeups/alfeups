@@ -2,8 +2,6 @@
 
 <br>
 
-- :notebook: Currently focusing on DevOps
-
 <br>
 </p>
 
