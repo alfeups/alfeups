@@ -7,7 +7,7 @@ Software Developer
 Since 2021 working in the IT banking sector as Software Developer
 
 * 🌍  I'm based in Lisbon
-* ✉️  You can contact me at [aps\_jr@hotmail.com](mailto:aps_jr@hotmail.com) or
+* ✉️  You can contact me at or
   <a href="https://www.linkedin.com/in/alfeups/" target="blank">
     <img align="center" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
