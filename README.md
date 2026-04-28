@@ -7,12 +7,6 @@ Software Developer
 Since 2021 working in the IT banking sector as Software Developer
 
 * 🌍  I'm based in Lisbon
-* ✉️  You can contact me at
-  <a href="https://www.linkedin.com/in/alfeups/" target="blank">
-    <img align="center" 
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      alt="alfeups" height="30" width="40" /></a>
-      
 
 ### Socials
 
